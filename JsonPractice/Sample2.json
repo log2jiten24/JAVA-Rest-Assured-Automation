@@ -1,0 +1,54 @@
+{
+  "data" : [
+  {
+    "id" : 1,
+    "firstname"  : "Kumar",
+    "lastname"   : "Jitendra",
+    "age"        : 32 ,
+    "email"      : "log2jeet24@gmail.com",
+    "gender"     : "male",
+    "address" : {
+      "city" : "Sydney",
+      "town" : "Kogarah",
+      "suburb" : "Rockdale"
+    }
+  },
+  
+  {
+    "id" : 2,
+    "firstname"  : "Kumar01",
+    "lastname"   : "Jitendra01",
+    "age"        : 30 ,
+    "email"      : "log2jeet2400@gmail.com",
+    "gender"     : "male"
+  },
+  
+  {
+    "id" : 3,
+    "firstname"  : "Priyaa",
+    "lastname"   : "Singh",
+    "age"        : 26 ,
+    "email"      : "log2priya@gmail.com",
+    "gender"     : "female"
+  },
+  
+  {
+    "id" : 4,
+    "firstname"  : "Khushi",
+    "lastname"   : "Singh",
+    "age"        : 25 ,
+    "email"      : "log2priya122@gmail.com",
+    "gender"     : "female"
+  },
+  
+   {
+    "id" : 5,
+    "firstname"  : "Aadya",
+    "lastname"   : "Singh",
+    "age"        : 20 ,
+    "email"      : "log2aadya122@gmail.com",
+    "gender"     : "female"
+  }
+   
+    ]
+  }
