@@ -1,5 +1,8 @@
 package poJOExamples;
 
+import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
+
+@JsonIgnoreProperties(ignoreUnknown = true)
 public class Employee_POJO_2 {
 	
 	private int id ;
