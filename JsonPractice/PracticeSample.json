@@ -1,0 +1,22 @@
+{
+  "Bob" : {
+    "firstname" : "Jiten",
+    "lastname"  : "Kumar" ,
+    "age"       : "34" ,
+    "skills"    : ["Java", "Python", "JavaScript"],
+    "address"   : {
+      "Unit Number" : "713",
+      "Street"      : "7 Rockdale Plaza Drive"
+    }
+  },
+  "Fed" : {
+    "firstName" : "Priya" ,
+    "lastName"  : "Singh" ,
+    "age"       : "27" ,
+    "country"   : "Australia",
+    "address"   : {
+      "Unit Number" : "87",
+      "Street"      : "2B Ashton Street Rockdale"
+    }
+  }
+}

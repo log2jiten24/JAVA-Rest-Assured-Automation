@@ -1,0 +1,10 @@
+{
+  "name" : "Nike 500" ,
+  "category" : "shoes" ,
+  "details" : {
+    "size" : "9" ,
+    "color" : "black" ,
+    "material" : "leather"
+
+  }
+}

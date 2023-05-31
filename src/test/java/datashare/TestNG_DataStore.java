@@ -1,11 +1,9 @@
 package datashare;
 
-import org.testng.annotations.Test;
-import org.yecht.Data.Map;
-
 import io.restassured.RestAssured;
 import io.restassured.http.ContentType;
 import io.restassured.response.Response;
+import org.testng.annotations.Test;
 
 public class TestNG_DataStore {
 

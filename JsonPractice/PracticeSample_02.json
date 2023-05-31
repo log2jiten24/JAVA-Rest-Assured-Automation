@@ -1,0 +1,26 @@
+{
+  "firstname" : "Kumar" ,
+  "lastname"  : "Jitendra" ,
+  "isAlive"   : true,
+  "age"       : 34 ,
+  "address"   : {
+    "streetAddress" : "Unit 234 Kensington Street" ,
+    "city"          : "Sydney" ,
+    "state"         : "NSW" ,
+    "postCode"      : "2216"
+  },
+  "phoneNumbers" : [
+    {
+      "type"   : "home" ,
+      "number" : "+61405009374"
+    },
+    {
+      "type"   : "office" ,
+      "number" : "+918879551929"
+    },
+    {
+      "type"   : "mobile" ,
+      "number" : "+61405009379"
+    }
+  ]
+}

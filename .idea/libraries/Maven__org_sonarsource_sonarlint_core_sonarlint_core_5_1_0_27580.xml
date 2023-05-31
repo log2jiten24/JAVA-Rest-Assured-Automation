@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.sonarsource.sonarlint.core:sonarlint-core:5.1.0.27580">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/sonarsource/sonarlint/core/sonarlint-core/5.1.0.27580/sonarlint-core-5.1.0.27580.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/sonarsource/sonarlint/core/sonarlint-core/5.1.0.27580/sonarlint-core-5.1.0.27580-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/sonarsource/sonarlint/core/sonarlint-core/5.1.0.27580/sonarlint-core-5.1.0.27580-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

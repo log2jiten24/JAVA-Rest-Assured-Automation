@@ -1,0 +1,4 @@
+﻿TC,Name,Surname,Age,address#Hno,address#Block,address#Street,address#State,address#addressGeo#latitude,address#addressGeo#longitude,office#officeA,office#officeB
+1,Kumar,Jitendra,34,713,Rockdale,Plaza Drive,NSW,400,500,Client A,Client B
+2,Priya,Singh,27,812,Ashton,Street Rockdale,NSW,345,123,Client ABC,Client XYZ
+3,Aadya,Kumar,4,790,Amazon,Street Kogarah,VIC,456,212,Client QWS,Client QAZ
